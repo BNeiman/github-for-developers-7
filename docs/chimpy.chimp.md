@@ -1,4 +1,11 @@
 ##Chimpy Chimp
+#Name: Chimpy
 
-**Favorite color is red
-**Favorite city is Chicago
+**Favorite color is red**
+**Favorite city is Chicago**
+
+*Hair is Blondy*
+*Eyes are blue*
+
+++Likes Girls++
++Likes running+
